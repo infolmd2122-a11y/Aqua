@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  overflow: hidden;
+  background: #000;
+}
+
+#info {
+  position: fixed;
+  top: 20px;
+  right: 20px;
+  width: 220px;
+  padding: 15px;
+  background: rgba(0,0,0,0.6);
+  color: white;
+  border-radius: 10px;
+  font-family: Arial, sans-serif;
+}
+
+
